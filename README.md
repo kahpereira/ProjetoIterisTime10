@@ -48,7 +48,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <a id="status"></a>
 ### 🚀 Status:
 > Status do Projeto: Concluido :heavy_check_mark:
-
----
-
-Feito com ❤️ por Kamila Pereira 👋🏼 <a href="https://www.linkedin.com/in/kamila-pereira/">Entre em contato!</a>
